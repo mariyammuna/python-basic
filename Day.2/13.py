@@ -1,0 +1,5 @@
+# Day - 4 Introduction to looping
+# types of loops
+# 1. for loop
+# 2. while loop
+# 3. nested loop
